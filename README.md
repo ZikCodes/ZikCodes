@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-I build intelligent products that turn complex problems into simple experiences. My focus sits at the intersection of **AI, backend engineering, and product** — designing RAG pipelines that retrieve the right thing, orchestrating LLM agents, and shipping backend systems that hold up in production.
+I build intelligent products that turn complex problems into simple experiences. My focus sits at the intersection of **AI, backend engineering, and product** designing RAG pipelines that retrieve the right thing, orchestrating LLM agents, and shipping backend systems that hold up in production.
 
 - 🔭 Currently a **Project Team Leader** at the **National Centre for Artificial Intelligence and Robotics (NCAIR)**, building software solutions that streamline business operations
 - 🚀 Founder & AI Product Engineer of **No Wam**, an AI-powered rental management platform (in development)
@@ -57,10 +57,10 @@ I build intelligent products that turn complex problems into simple experiences.
 
 ## 🚀 Featured Work
 
-### 🎙️ [Sarah — Voice AI Scheduling Assistant](https://github.com/ZikCodes/AI-Siri-Assistant)
+### 🎙️ [Sarah: Voice AI Scheduling Assistant](https://github.com/ZikCodes/AI-Siri-Assistant)
 *Solo Developer · Working Prototype*
 
-A voice-enabled AI assistant that manages calendar workflows through natural language — speech in, calendar events out, no forms in between.
+A voice-enabled AI assistant that manages calendar workflows through natural language speech in, calendar events out, no forms in between.
 
 - Speech recognized locally via **Vosk**, transcript resolved into structured intent (book / reschedule / cancel) by an LLM served through **Groq** with **Mistral**
 - **LangChain** coordinates the tool call against the calendar API
@@ -76,7 +76,7 @@ A voice-enabled AI assistant that manages calendar workflows through natural lan
 An AI-enabled platform reducing landlord–tenant conflict by centralizing agreements, communication, maintenance workflows, and property records.
 
 - **FastAPI** backend with **PostgreSQL** + **SQLite** for structured records and local caching
-- AI layer built on **LangChain**, **RAG**, and a vector database — served locally through **Ollama** — indexing agreements and maintenance history for retrieval-augmented answers
+- AI layer built on **LangChain**, **RAG**, and a vector database served locally through **Ollama** indexing agreements and maintenance history for retrieval-augmented answers
 - **WhatsApp**-based assistant tenants can message directly for rental info and support
 - Product direction validated through landlord/tenant interviews and market research
 
@@ -98,10 +98,10 @@ An AI-enabled platform reducing landlord–tenant conflict by centralizing agree
 
 ## 💼 Experience
 
-**Project Team Leader** — National Centre for Artificial Intelligence and Robotics (NCAIR) · *Oct 2025 – Present*
+**Project Team Leader**: National Centre for Artificial Intelligence and Robotics (NCAIR) · *Oct 2025 – Present*
 Building and improving business software solutions, focused on data management, process automation, and operational efficiency.
 
-**Freelance Python Developer** — Self-Employed, Remote · *Jan 2022 – Dec 2024*
+**Freelance Python Developer**: Self-Employed, Remote · *Jan 2022 – Dec 2024*
 Delivered Python-based automation tools and small-scale client projects end to end, from requirements through testing and delivery.
 
 <br>
@@ -122,8 +122,8 @@ Delivered Python-based automation tools and small-scale client projects end to e
 ## 🎓 Education & Certifications
 
 - **BSc Computer Science** — Ahmadu Bello University, Kaduna
-- **Python (Beginner & Advanced)**, **Data Science (Beginner & Advanced)**, **Product Design / UI-UX (Beginner & Advanced)**, **Product Development** — NCAIR, Abuja
-- **CCNAv7: Introduction to Networks**, **JavaScript Essentials 1 (JSE)** — Cisco Networking Academy, Kaduna
+- **Python (Beginner & Advanced)**, **Data Science (Beginner & Advanced)**, **Product Design / UI-UX (Beginner & Advanced)**, **Product Development**: NCAIR, Abuja
+- **CCNAv7: Introduction to Networks**, **JavaScript Essentials 1 (JSE)**: Cisco Networking Academy, Kaduna
 
 <br>
 
