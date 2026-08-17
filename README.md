@@ -70,7 +70,7 @@ A voice-enabled AI assistant that manages calendar workflows through natural lan
 
 ---
 
-### 🏠 No Wam — AI-Powered Rental Management Platform
+### 🏠 No Wam: AI-Powered Rental Management Platform
 *Founder / AI Product Engineer · In Development*
 
 An AI-enabled platform reducing landlord–tenant conflict by centralizing agreements, communication, maintenance workflows, and property records.
@@ -121,7 +121,7 @@ Delivered Python-based automation tools and small-scale client projects end to e
 
 ## 🎓 Education & Certifications
 
-- **BSc Computer Science** — Ahmadu Bello University, Kaduna
+- **BSc Computer Science**: Ahmadu Bello University, Kaduna
 - **Python (Beginner & Advanced)**, **Data Science (Beginner & Advanced)**, **Product Design / UI-UX (Beginner & Advanced)**, **Product Development**: NCAIR, Abuja
 - **CCNAv7: Introduction to Networks**, **JavaScript Essentials 1 (JSE)**: Cisco Networking Academy, Kaduna
 
@@ -129,7 +129,7 @@ Delivered Python-based automation tools and small-scale client projects end to e
 
 <div align="center">
 
-### 💭 "Take a complex, messy problem and ship something a real person can use — without thinking about the complexity underneath."
+### 💭 "Take a complex, messy problem and ship something a real person can use without thinking about the complexity underneath."
 
 [![Portfolio](https://img.shields.io/badge/View_full_portfolio-→-2E9EF7?style=for-the-badge)](https://portfolio-eosin-nine-81.vercel.app/)
 
